@@ -1,0 +1,6 @@
+going to attempt to calculate a square root of 168 number using 1500 iterations 
+result is: 12.961481 
+lets take the opposite: -12.961481 
+Next we will let the computer do the heavy lifting to find the square root of 1426: 
+37.762413 
+just to make sure lets square them: 1425.9999 1426.0
